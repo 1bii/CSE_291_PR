@@ -1,3 +1,3 @@
-To run KNN analysis, we can open HW3_knn.ipynb with jupyter notebook.
-To run SVM analysis, we can open HW3_svm.ipynb with jupyter notebook.
-HW3.pdf is our final report.
+To run KNN analysis, we can open knn.ipynb with jupyter notebook.
+To run SVM analysis, we can open svm.ipynb with jupyter notebook.
+report.pdf is our final report.
